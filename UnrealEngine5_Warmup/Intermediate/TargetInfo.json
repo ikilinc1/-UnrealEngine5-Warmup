@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "UnrealEngine5_Warmup",
+			"Path": "..\\Source\\UnrealEngine5_Warmup.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "UnrealEngine5_WarmupEditor",
+			"Path": "..\\Source\\UnrealEngine5_WarmupEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

@@ -1,0 +1,23 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unrealengine5\\-unrealengine5-warmup\\unrealengine5_warmup\\intermediate\\build\\win64\\unrealeditor\\inc\\unrealengine5_warmup\\uht\\unrealengine5_warmupcharacter.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unrealengine5\\-unrealengine5-warmup\\unrealengine5_warmup\\intermediate\\build\\win64\\x64\\unrealengine5_warmupeditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "d:\\unrealengine5\\-unrealengine5-warmup\\unrealengine5_warmup\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\unrealengine5_warmup\\definitions.unrealengine5_warmup.h",
+            "d:\\unrealengine5\\-unrealengine5-warmup\\unrealengine5_warmup\\source\\unrealengine5_warmup\\unrealengine5_warmupcharacter.h",
+            "d:\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "d:\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "d:\\ue_5.3\\engine\\source\\runtime\\experimental\\iris\\core\\public\\iris\\serialization\\irisobjectreferencepackagemap.h",
+            "d:\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\iriscore\\uht\\irisobjectreferencepackagemap.generated.h",
+            "d:\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\charactermovementreplication.generated.h",
+            "d:\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "d:\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\rootmotionsource.generated.h",
+            "d:\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\character.generated.h",
+            "d:\\unrealengine5\\-unrealengine5-warmup\\unrealengine5_warmup\\intermediate\\build\\win64\\unrealeditor\\inc\\unrealengine5_warmup\\uht\\unrealengine5_warmupcharacter.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

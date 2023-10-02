@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\UnrealEngine5\\-UnrealEngine5-Warmup\\UnrealEngine5_Warmup\\Source\\UnrealEngine5_Warmup\\UnrealEngine5_Warmup.Build.cs",
+		"D:\\UnrealEngine5\\-UnrealEngine5-Warmup\\UnrealEngine5_Warmup\\Source\\UnrealEngine5_Warmup.Target.cs",
+		"D:\\UnrealEngine5\\-UnrealEngine5-Warmup\\UnrealEngine5_Warmup\\Source\\UnrealEngine5_WarmupEditor.Target.cs"
+	],
+	"EngineVersion": "5.3.1"
+}

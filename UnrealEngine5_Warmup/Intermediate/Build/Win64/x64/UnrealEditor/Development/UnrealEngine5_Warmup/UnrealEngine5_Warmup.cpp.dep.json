@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unrealengine5\\-unrealengine5-warmup\\unrealengine5_warmup\\source\\unrealengine5_warmup\\unrealengine5_warmup.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unrealengine5\\-unrealengine5-warmup\\unrealengine5_warmup\\intermediate\\build\\win64\\x64\\unrealengine5_warmupeditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "d:\\unrealengine5\\-unrealengine5-warmup\\unrealengine5_warmup\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\unrealengine5_warmup\\definitions.unrealengine5_warmup.h",
+            "d:\\unrealengine5\\-unrealengine5-warmup\\unrealengine5_warmup\\source\\unrealengine5_warmup\\unrealengine5_warmup.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
