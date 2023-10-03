@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/UnrealEngine5/-UnrealEngine5-Warmup/UnrealEngine5_Warmup/Content/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/UnrealEngine5/-UnrealEngine5-Warmup/UnrealEngine5_Warmup/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/UnrealEngine5/-UnrealEngine5-Warmup/UnrealEngine5_Warmup/Content/Blueprints/Framework/MyUnrealEngine5_WarmupGameMode.uasset",
+				"D:/UnrealEngine5/-UnrealEngine5-Warmup/UnrealEngine5_Warmup/Content/Blueprints/Framework/BP_MyUnrealEngine5_WarmupGameMode.uasset",
+				"D:/UnrealEngine5/-UnrealEngine5-Warmup/UnrealEngine5_Warmup/Content/ItemData/MundaneItems.uasset"
+			]
+		}
+	]
+}

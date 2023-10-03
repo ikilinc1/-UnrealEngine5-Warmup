@@ -5,7 +5,7 @@
 ===========================================================================*/
 
 #include "UObject/GeneratedCppIncludes.h"
-#include "UnrealEngine5_Warmup/UnrealEngine5_WarmupCharacter.h"
+#include "UnrealEngine5_Warmup/Public/Player/UnrealEngine5_WarmupCharacter.h"
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
 void EmptyLinkFunctionForGeneratedCodeUnrealEngine5_WarmupCharacter() {}
 // Cross Module References
@@ -68,8 +68,8 @@ void EmptyLinkFunctionForGeneratedCodeUnrealEngine5_WarmupCharacter() {}
 #if WITH_METADATA
 	const UECodeGen_Private::FMetaDataPairParam Z_Construct_UClass_AUnrealEngine5_WarmupCharacter_Statics::Class_MetaDataParams[] = {
 		{ "HideCategories", "Navigation" },
-		{ "IncludePath", "UnrealEngine5_WarmupCharacter.h" },
-		{ "ModuleRelativePath", "UnrealEngine5_WarmupCharacter.h" },
+		{ "IncludePath", "Player/UnrealEngine5_WarmupCharacter.h" },
+		{ "ModuleRelativePath", "Public/Player/UnrealEngine5_WarmupCharacter.h" },
 	};
 #endif
 #if WITH_METADATA
@@ -80,7 +80,7 @@ void EmptyLinkFunctionForGeneratedCodeUnrealEngine5_WarmupCharacter() {}
 		{ "Comment", "/** Camera boom positioning the camera behind the character */" },
 #endif
 		{ "EditInline", "true" },
-		{ "ModuleRelativePath", "UnrealEngine5_WarmupCharacter.h" },
+		{ "ModuleRelativePath", "Public/Player/UnrealEngine5_WarmupCharacter.h" },
 #if !UE_BUILD_SHIPPING
 		{ "ToolTip", "Camera boom positioning the camera behind the character" },
 #endif
@@ -95,7 +95,7 @@ void EmptyLinkFunctionForGeneratedCodeUnrealEngine5_WarmupCharacter() {}
 		{ "Comment", "/** Follow camera */" },
 #endif
 		{ "EditInline", "true" },
-		{ "ModuleRelativePath", "UnrealEngine5_WarmupCharacter.h" },
+		{ "ModuleRelativePath", "Public/Player/UnrealEngine5_WarmupCharacter.h" },
 #if !UE_BUILD_SHIPPING
 		{ "ToolTip", "Follow camera" },
 #endif
@@ -109,7 +109,7 @@ void EmptyLinkFunctionForGeneratedCodeUnrealEngine5_WarmupCharacter() {}
 #if !UE_BUILD_SHIPPING
 		{ "Comment", "/** MappingContext */" },
 #endif
-		{ "ModuleRelativePath", "UnrealEngine5_WarmupCharacter.h" },
+		{ "ModuleRelativePath", "Public/Player/UnrealEngine5_WarmupCharacter.h" },
 #if !UE_BUILD_SHIPPING
 		{ "ToolTip", "MappingContext" },
 #endif
@@ -123,7 +123,7 @@ void EmptyLinkFunctionForGeneratedCodeUnrealEngine5_WarmupCharacter() {}
 #if !UE_BUILD_SHIPPING
 		{ "Comment", "/** Jump Input Action */" },
 #endif
-		{ "ModuleRelativePath", "UnrealEngine5_WarmupCharacter.h" },
+		{ "ModuleRelativePath", "Public/Player/UnrealEngine5_WarmupCharacter.h" },
 #if !UE_BUILD_SHIPPING
 		{ "ToolTip", "Jump Input Action" },
 #endif
@@ -137,7 +137,7 @@ void EmptyLinkFunctionForGeneratedCodeUnrealEngine5_WarmupCharacter() {}
 #if !UE_BUILD_SHIPPING
 		{ "Comment", "/** Move Input Action */" },
 #endif
-		{ "ModuleRelativePath", "UnrealEngine5_WarmupCharacter.h" },
+		{ "ModuleRelativePath", "Public/Player/UnrealEngine5_WarmupCharacter.h" },
 #if !UE_BUILD_SHIPPING
 		{ "ToolTip", "Move Input Action" },
 #endif
@@ -151,7 +151,7 @@ void EmptyLinkFunctionForGeneratedCodeUnrealEngine5_WarmupCharacter() {}
 #if !UE_BUILD_SHIPPING
 		{ "Comment", "/** Look Input Action */" },
 #endif
-		{ "ModuleRelativePath", "UnrealEngine5_WarmupCharacter.h" },
+		{ "ModuleRelativePath", "Public/Player/UnrealEngine5_WarmupCharacter.h" },
 #if !UE_BUILD_SHIPPING
 		{ "ToolTip", "Look Input Action" },
 #endif
@@ -199,15 +199,15 @@ void EmptyLinkFunctionForGeneratedCodeUnrealEngine5_WarmupCharacter() {}
 	}
 	DEFINE_VTABLE_PTR_HELPER_CTOR(AUnrealEngine5_WarmupCharacter);
 	AUnrealEngine5_WarmupCharacter::~AUnrealEngine5_WarmupCharacter() {}
-	struct Z_CompiledInDeferFile_FID_UnrealEngine5__UnrealEngine5_Warmup_UnrealEngine5_Warmup_Source_UnrealEngine5_Warmup_UnrealEngine5_WarmupCharacter_h_Statics
+	struct Z_CompiledInDeferFile_FID_UnrealEngine5__UnrealEngine5_Warmup_UnrealEngine5_Warmup_Source_UnrealEngine5_Warmup_Public_Player_UnrealEngine5_WarmupCharacter_h_Statics
 	{
 		static const FClassRegisterCompiledInInfo ClassInfo[];
 	};
-	const FClassRegisterCompiledInInfo Z_CompiledInDeferFile_FID_UnrealEngine5__UnrealEngine5_Warmup_UnrealEngine5_Warmup_Source_UnrealEngine5_Warmup_UnrealEngine5_WarmupCharacter_h_Statics::ClassInfo[] = {
-		{ Z_Construct_UClass_AUnrealEngine5_WarmupCharacter, AUnrealEngine5_WarmupCharacter::StaticClass, TEXT("AUnrealEngine5_WarmupCharacter"), &Z_Registration_Info_UClass_AUnrealEngine5_WarmupCharacter, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(AUnrealEngine5_WarmupCharacter), 1238500976U) },
+	const FClassRegisterCompiledInInfo Z_CompiledInDeferFile_FID_UnrealEngine5__UnrealEngine5_Warmup_UnrealEngine5_Warmup_Source_UnrealEngine5_Warmup_Public_Player_UnrealEngine5_WarmupCharacter_h_Statics::ClassInfo[] = {
+		{ Z_Construct_UClass_AUnrealEngine5_WarmupCharacter, AUnrealEngine5_WarmupCharacter::StaticClass, TEXT("AUnrealEngine5_WarmupCharacter"), &Z_Registration_Info_UClass_AUnrealEngine5_WarmupCharacter, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(AUnrealEngine5_WarmupCharacter), 1096139475U) },
 	};
-	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_UnrealEngine5__UnrealEngine5_Warmup_UnrealEngine5_Warmup_Source_UnrealEngine5_Warmup_UnrealEngine5_WarmupCharacter_h_1914973261(TEXT("/Script/UnrealEngine5_Warmup"),
-		Z_CompiledInDeferFile_FID_UnrealEngine5__UnrealEngine5_Warmup_UnrealEngine5_Warmup_Source_UnrealEngine5_Warmup_UnrealEngine5_WarmupCharacter_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_UnrealEngine5__UnrealEngine5_Warmup_UnrealEngine5_Warmup_Source_UnrealEngine5_Warmup_UnrealEngine5_WarmupCharacter_h_Statics::ClassInfo),
+	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_UnrealEngine5__UnrealEngine5_Warmup_UnrealEngine5_Warmup_Source_UnrealEngine5_Warmup_Public_Player_UnrealEngine5_WarmupCharacter_h_2742300957(TEXT("/Script/UnrealEngine5_Warmup"),
+		Z_CompiledInDeferFile_FID_UnrealEngine5__UnrealEngine5_Warmup_UnrealEngine5_Warmup_Source_UnrealEngine5_Warmup_Public_Player_UnrealEngine5_WarmupCharacter_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_UnrealEngine5__UnrealEngine5_Warmup_UnrealEngine5_Warmup_Source_UnrealEngine5_Warmup_Public_Player_UnrealEngine5_WarmupCharacter_h_Statics::ClassInfo),
 		nullptr, 0,
 		nullptr, 0);
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

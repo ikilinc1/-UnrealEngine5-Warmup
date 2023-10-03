@@ -11,6 +11,8 @@
     <None Include="..\..\Source\UnrealEngine5_WarmupEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.vsconfig" />
+    <None Include="..\..\UpgradeLog.htm" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
     </Filter>
@@ -18,6 +20,9 @@
       <Filter>Config</Filter>
     </None>
     <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorSettings.ini">
       <Filter>Config</Filter>
     </None>
     <None Include="..\..\Config\DefaultEngine.ini">
@@ -41,17 +46,41 @@
     <ClInclude Include="..\..\Source\UnrealEngine5_Warmup\UnrealEngine5_Warmup.h">
       <Filter>Source\UnrealEngine5_Warmup</Filter>
     </ClInclude>
-    <ClCompile Include="..\..\Source\UnrealEngine5_Warmup\UnrealEngine5_WarmupCharacter.cpp">
-      <Filter>Source\UnrealEngine5_Warmup</Filter>
+    <Filter Include="Source\UnrealEngine5_Warmup\Private">
+      <UniqueIdentifier>{2739C48B-61CD-3906-9D1A-6036A1CD4F01}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\UnrealEngine5_Warmup\Private\Framework">
+      <UniqueIdentifier>{42794FC7-06F0-3909-B018-07F1AB2A8060}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\UnrealEngine5_Warmup\Private\Framework\UnrealEngine5_WarmupGameMode.cpp">
+      <Filter>Source\UnrealEngine5_Warmup\Private\Framework</Filter>
     </ClCompile>
-    <ClInclude Include="..\..\Source\UnrealEngine5_Warmup\UnrealEngine5_WarmupCharacter.h">
-      <Filter>Source\UnrealEngine5_Warmup</Filter>
+    <Filter Include="Source\UnrealEngine5_Warmup\Private\Player">
+      <UniqueIdentifier>{2D36E473-EE6C-3401-8C19-46A159F23F3A}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\UnrealEngine5_Warmup\Private\Player\UnrealEngine5_WarmupCharacter.cpp">
+      <Filter>Source\UnrealEngine5_Warmup\Private\Player</Filter>
+    </ClCompile>
+    <Filter Include="Source\UnrealEngine5_Warmup\Public">
+      <UniqueIdentifier>{C4FDAE8B-FE63-30DF-952E-3F320FF30330}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\UnrealEngine5_Warmup\Public\Data">
+      <UniqueIdentifier>{D035943B-429B-30DF-97CF-6BC524A7CADE}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\UnrealEngine5_Warmup\Public\Data\ItemDataStructs.h">
+      <Filter>Source\UnrealEngine5_Warmup\Public\Data</Filter>
     </ClInclude>
-    <ClCompile Include="..\..\Source\UnrealEngine5_Warmup\UnrealEngine5_WarmupGameMode.cpp">
-      <Filter>Source\UnrealEngine5_Warmup</Filter>
-    </ClCompile>
-    <ClInclude Include="..\..\Source\UnrealEngine5_Warmup\UnrealEngine5_WarmupGameMode.h">
-      <Filter>Source\UnrealEngine5_Warmup</Filter>
+    <Filter Include="Source\UnrealEngine5_Warmup\Public\Framework">
+      <UniqueIdentifier>{20B30055-583D-3C85-8310-8DCABFC20B84}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\UnrealEngine5_Warmup\Public\Framework\UnrealEngine5_WarmupGameMode.h">
+      <Filter>Source\UnrealEngine5_Warmup\Public\Framework</Filter>
+    </ClInclude>
+    <Filter Include="Source\UnrealEngine5_Warmup\Public\Player">
+      <UniqueIdentifier>{1F8D31C2-D7CB-36F3-BE0E-36021B55847B}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\UnrealEngine5_Warmup\Public\Player\UnrealEngine5_WarmupCharacter.h">
+      <Filter>Source\UnrealEngine5_Warmup\Public\Player</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

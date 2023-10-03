@@ -1,7 +1,7 @@
 // Copyright Epic Games, Inc. All Rights Reserved.
 
-#include "UnrealEngine5_WarmupGameMode.h"
-#include "UnrealEngine5_WarmupCharacter.h"
+#include "Framework/UnrealEngine5_WarmupGameMode.h"
+#include "Player/UnrealEngine5_WarmupCharacter.h"
 #include "UObject/ConstructorHelpers.h"
 
 AUnrealEngine5_WarmupGameMode::AUnrealEngine5_WarmupGameMode()

@@ -5,7 +5,7 @@
 ===========================================================================*/
 
 #include "UObject/GeneratedCppIncludes.h"
-#include "UnrealEngine5_Warmup/UnrealEngine5_WarmupGameMode.h"
+#include "UnrealEngine5_Warmup/Public/Framework/UnrealEngine5_WarmupGameMode.h"
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
 void EmptyLinkFunctionForGeneratedCodeUnrealEngine5_WarmupGameMode() {}
 // Cross Module References
@@ -39,8 +39,8 @@ void EmptyLinkFunctionForGeneratedCodeUnrealEngine5_WarmupGameMode() {}
 #if WITH_METADATA
 	const UECodeGen_Private::FMetaDataPairParam Z_Construct_UClass_AUnrealEngine5_WarmupGameMode_Statics::Class_MetaDataParams[] = {
 		{ "HideCategories", "Info Rendering MovementReplication Replication Actor Input Movement Collision Rendering HLOD WorldPartition DataLayers Transformation" },
-		{ "IncludePath", "UnrealEngine5_WarmupGameMode.h" },
-		{ "ModuleRelativePath", "UnrealEngine5_WarmupGameMode.h" },
+		{ "IncludePath", "Framework/UnrealEngine5_WarmupGameMode.h" },
+		{ "ModuleRelativePath", "Public/Framework/UnrealEngine5_WarmupGameMode.h" },
 		{ "ShowCategories", "Input|MouseInput Input|TouchInput" },
 	};
 #endif
@@ -76,15 +76,15 @@ void EmptyLinkFunctionForGeneratedCodeUnrealEngine5_WarmupGameMode() {}
 	}
 	DEFINE_VTABLE_PTR_HELPER_CTOR(AUnrealEngine5_WarmupGameMode);
 	AUnrealEngine5_WarmupGameMode::~AUnrealEngine5_WarmupGameMode() {}
-	struct Z_CompiledInDeferFile_FID_UnrealEngine5__UnrealEngine5_Warmup_UnrealEngine5_Warmup_Source_UnrealEngine5_Warmup_UnrealEngine5_WarmupGameMode_h_Statics
+	struct Z_CompiledInDeferFile_FID_UnrealEngine5__UnrealEngine5_Warmup_UnrealEngine5_Warmup_Source_UnrealEngine5_Warmup_Public_Framework_UnrealEngine5_WarmupGameMode_h_Statics
 	{
 		static const FClassRegisterCompiledInInfo ClassInfo[];
 	};
-	const FClassRegisterCompiledInInfo Z_CompiledInDeferFile_FID_UnrealEngine5__UnrealEngine5_Warmup_UnrealEngine5_Warmup_Source_UnrealEngine5_Warmup_UnrealEngine5_WarmupGameMode_h_Statics::ClassInfo[] = {
-		{ Z_Construct_UClass_AUnrealEngine5_WarmupGameMode, AUnrealEngine5_WarmupGameMode::StaticClass, TEXT("AUnrealEngine5_WarmupGameMode"), &Z_Registration_Info_UClass_AUnrealEngine5_WarmupGameMode, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(AUnrealEngine5_WarmupGameMode), 579297474U) },
+	const FClassRegisterCompiledInInfo Z_CompiledInDeferFile_FID_UnrealEngine5__UnrealEngine5_Warmup_UnrealEngine5_Warmup_Source_UnrealEngine5_Warmup_Public_Framework_UnrealEngine5_WarmupGameMode_h_Statics::ClassInfo[] = {
+		{ Z_Construct_UClass_AUnrealEngine5_WarmupGameMode, AUnrealEngine5_WarmupGameMode::StaticClass, TEXT("AUnrealEngine5_WarmupGameMode"), &Z_Registration_Info_UClass_AUnrealEngine5_WarmupGameMode, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(AUnrealEngine5_WarmupGameMode), 1618896715U) },
 	};
-	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_UnrealEngine5__UnrealEngine5_Warmup_UnrealEngine5_Warmup_Source_UnrealEngine5_Warmup_UnrealEngine5_WarmupGameMode_h_1446849881(TEXT("/Script/UnrealEngine5_Warmup"),
-		Z_CompiledInDeferFile_FID_UnrealEngine5__UnrealEngine5_Warmup_UnrealEngine5_Warmup_Source_UnrealEngine5_Warmup_UnrealEngine5_WarmupGameMode_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_UnrealEngine5__UnrealEngine5_Warmup_UnrealEngine5_Warmup_Source_UnrealEngine5_Warmup_UnrealEngine5_WarmupGameMode_h_Statics::ClassInfo),
+	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_UnrealEngine5__UnrealEngine5_Warmup_UnrealEngine5_Warmup_Source_UnrealEngine5_Warmup_Public_Framework_UnrealEngine5_WarmupGameMode_h_1829898471(TEXT("/Script/UnrealEngine5_Warmup"),
+		Z_CompiledInDeferFile_FID_UnrealEngine5__UnrealEngine5_Warmup_UnrealEngine5_Warmup_Source_UnrealEngine5_Warmup_Public_Framework_UnrealEngine5_WarmupGameMode_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_UnrealEngine5__UnrealEngine5_Warmup_UnrealEngine5_Warmup_Source_UnrealEngine5_Warmup_Public_Framework_UnrealEngine5_WarmupGameMode_h_Statics::ClassInfo),
 		nullptr, 0,
 		nullptr, 0);
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
